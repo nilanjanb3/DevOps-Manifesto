@@ -11,13 +11,14 @@ This repository contains roadmap &amp; reading materials to be a DevOps Engineer
     * [03-GoLang Basics](https://github.com/nilanjanb3/golang)
     * [04-GoLang FreeCodeCamp Course](https://youtu.be/un6ZyFkqFKo)
 * 02-Operating Systems
-    * [01-Linux -> Ubuntu](https://github.com/nilanjanb3/linux)
+    * 01-Linux
+        * [01-Ubuntu](https://github.com/nilanjanb3/linux)
 * 03-Learn to Live in Terminal
     * 01-Scripting
-        * [01-Scripting -> Shell/Bash Basics](https://github.com/nilanjanb3/shell-script)
-        * [02-Scripting -> Shell/Bash Advanced]()
+        * [01-Shell/Bash Basics](https://github.com/nilanjanb3/shell-script)
+        * [02-Shell/Bash Advanced]()
     * 02-Editors 
-        * [01-Editors -> Vim](https://www.freecodecamp.org/news/vim-beginners-guide/)
+        * [01-Vim](https://www.freecodecamp.org/news/vim-beginners-guide/)
     * 03-Process Management
         * [01-ps command manual](https://man7.org/linux/man-pages/man1/ps.1.html)
         * [02-ps command real examples](https://www.digitalocean.com/community/tutorials/linux-ps-command)
