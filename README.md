@@ -47,9 +47,9 @@ This repository contains roadmap &amp; reading materials to be a DevOps Engineer
         * [08-iptables command](https://www.geeksforgeeks.org/iptables-command-in-linux-with-examples/)
         * [09-nftables](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/html/configuring_and_managing_networking/getting-started-with-nftables_configuring-and-managing-networking)
         * [10-tcpdump command](https://www.geeksforgeeks.org/tcpdump-command-in-linux-with-examples/)
-        *[11-nslookup command](https://www.geeksforgeeks.org/nslookup-command-in-linux-with-examples/)
-        *[12-dig command](https://www.geeksforgeeks.org/dig-command-in-linux-with-examples/)
-        *[13-scp command](https://www.geeksforgeeks.org/scp-command-in-linux-with-examples/)
+        * [11-nslookup command](https://www.geeksforgeeks.org/nslookup-command-in-linux-with-examples/)
+        * [12-dig command](https://www.geeksforgeeks.org/dig-command-in-linux-with-examples/)
+        * [13-scp command](https://www.geeksforgeeks.org/scp-command-in-linux-with-examples/)
     * 06-Text Manipulation
         *[01-]()
         *[]()
