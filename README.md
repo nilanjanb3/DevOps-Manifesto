@@ -65,6 +65,9 @@ This repository contains roadmap &amp; reading materials to be a DevOps Engineer
         * [12-wc command](https://www.geeksforgeeks.org/wc-command-linux-examples/)
 * 04-Version Control System
     * [01-Git](https://github.com/nilanjanb3/git)
+* 05-VCS Hosting
+    * [01-Git & GitHub Basics](https://youtu.be/RGOj5yH7evk)
+    * [02-GitHub Docs](https://docs.github.com/en/get-started/quickstart)
         * []()
         * []()
         * []()
@@ -89,6 +92,6 @@ This repository contains roadmap &amp; reading materials to be a DevOps Engineer
         * []()
         * []()
         * []()
-        * []()
-        * []()
+
+
         
