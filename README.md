@@ -1,7 +1,7 @@
 # DevOps-Manifesto
 This repository contains roadmap &amp; reading materials to be a DevOps Engineer
 
-[DevOps Roadmap](https://github.com/nilanjanb3/DevOps-Manifesto.git)
+[DevOps Roadmap](https://roadmap.sh/devops)
 
 ### Table of content
 
@@ -68,8 +68,9 @@ This repository contains roadmap &amp; reading materials to be a DevOps Engineer
 * 05-VCS Hosting
     * [01-Git & GitHub Basics](https://youtu.be/RGOj5yH7evk)
     * [02-GitHub Docs](https://docs.github.com/en/get-started/quickstart)
-        * []()
-        * []()
+* 06-Set Up Some Really Important Things
+    * 01-Web Server
+        * [01-Nginx](https://www.freecodecamp.org/news/the-nginx-handbook/)
         * []()
         * []()
         * []()
