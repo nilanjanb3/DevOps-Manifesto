@@ -61,7 +61,7 @@ This repository contains roadmap &amp; reading materials to be a DevOps Engineer
         * [08-echo command](https://www.geeksforgeeks.org/echo-command-in-linux-with-examples/)
         * [09-fmt command](https://www.geeksforgeeks.org/fmt-command-unixlinux/)
         * [10-tr command](https://www.geeksforgeeks.org/tr-command-in-unix-linux-with-examples/)
-        * [11-nl command](https://www.geeksforgeeks.org/tr-command-in-unix-linux-with-examples/)
+        * [11-nl command](https://www.geeksforgeeks.org/nl-command-in-linux-with-examples/)
         * [12-wc command](https://www.geeksforgeeks.org/wc-command-linux-examples/)
 * 04-Version Control System
     * [01-Git](https://github.com/nilanjanb3/git)
