@@ -1,0 +1,15 @@
+### Networking Tools
+---
+* [01-traceroute command](https://www.geeksforgeeks.org/traceroute-command-in-linux-with-examples/)
+* [02-ping command](https://www.geeksforgeeks.org/ping-command-in-linux-with-examples/)
+* [03-mtr command](https://www.baeldung.com/linux/mtr-command)
+* [04-nmap command](https://www.geeksforgeeks.org/nmap-command-in-linux-with-examples/)
+* [05-netstat command](https://www.geeksforgeeks.org/netstat-command-linux/)
+* [06-urf(Uncomplicated Firewall tool) in Linux](https://www.digitalocean.com/community/tutorials/how-to-setup-a-firewall-with-ufw-on-an-ubuntu-and-debian-cloud-server)
+* [07-firewalld](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-firewall-using-firewalld-on-centos-7)
+* [08-iptables command](https://www.geeksforgeeks.org/iptables-command-in-linux-with-examples/)
+* [09-nftables](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/html/configuring_and_managing_networking/getting-started-with-nftables_configuring-and-managing-networking)
+* [10-tcpdump command](https://www.geeksforgeeks.org/tcpdump-command-in-linux-with-examples/)
+* [11-nslookup command](https://www.geeksforgeeks.org/nslookup-command-in-linux-with-examples/)
+* [12-dig command](https://www.geeksforgeeks.org/dig-command-in-linux-with-examples/)
+* [13-scp command](https://www.geeksforgeeks.org/scp-command-in-linux-with-examples/)
