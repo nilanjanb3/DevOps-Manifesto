@@ -82,12 +82,17 @@ This repository contains roadmap &amp; reading materials to be a DevOps Engineer
     * 08-TCP/IP Model
         * [01-TCP/IP Model](https://www.geeksforgeeks.org/tcp-ip-in-computer-networking/)
         * [02-OSI Vs TCP/IP](https://www.geeksforgeeks.org/tcp-ip-model/)
-        * []()
-        * []()
-        * []()
-        * []()
-        * []()
-        * []()
+* 10-Serverless
+    * 01-AWS Lambda
+        * [01-AWS Lambda](https://github.com/nilanjanb3/AWS-Lambda)
+        * [02-AWS Lambda Official Docs](https://docs.aws.amazon.com/lambda/latest/dg/getting-started.html)
+    * 02-Azure Functions
+        * [01-Azure Function App Official Docs](https://learn.microsoft.com/en-us/azure/azure-functions/functions-overview?pivots=programming-language-python)
+* 11-Infrastructure Provisioning
+    * 01-Terraform
+        * [01-Learn Terraform]()
+        * [02-Terraform Official Docs](https://www.terraform.io/)
+        * [03-Terraform Providers](https://registry.terraform.io/namespaces/hashicorp)
         * []()
         * []()
         * []()
