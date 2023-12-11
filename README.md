@@ -105,6 +105,7 @@ This repository contains roadmap &amp; reading materials to be a DevOps Engineer
         * [01-Setting up Cluster Monitoring using Prometheus and Grafana](https://github.com/nilanjanb3/Monitoring-Using-Prometheus-Grafana.git)
 * 16-Application Monitoring
 * 17-Logs Monitoring
+    * 01-Loki
         * [01-Loki](https://github.com/nilanjanb3/Loki-Logs-Monitoring.git)
         * []()
         * []()
