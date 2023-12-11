@@ -93,10 +93,19 @@ This repository contains roadmap &amp; reading materials to be a DevOps Engineer
         * [01-Learn Terraform]()
         * [02-Terraform Official Docs](https://www.terraform.io/)
         * [03-Terraform Providers](https://registry.terraform.io/namespaces/hashicorp)
-        * []()
-        * []()
-        * []()
-        * []()
+* 12-Configuration Management
+    * 01-Ansible
+        * [01-Ansible Basics](https://github.com/nilanjanb3/ansible)
+    * 02-Chef
+        * [01-Chef](https://github.com/nilanjanb3/chef.git)
+* 13-CI/CD Tools
+* 14-Secrets Management
+* 15-Infrastructure Management
+    * 01-Prometheus & Grafana
+        * [01-Setting up Cluster Monitoring using Prometheus and Grafana](https://github.com/nilanjanb3/Monitoring-Using-Prometheus-Grafana.git)
+* 16-Application Monitoring
+* 17-Logs Monitoring
+        * [01-Loki](https://github.com/nilanjanb3/Loki-Logs-Monitoring.git)
         * []()
         * []()
         * []()
