@@ -7,16 +7,17 @@ This repository contains roadmap &amp; reading materials to be a DevOps Engineer
 
 * 01-Learn a Programming Language
     * [01-Python Basics](https://github.com/nilanjanb3/python)
-    * [02-Python Advanced](https://github.com/nilanjanb3/PCAP-Prep)
-    * [03-GoLang Basics](https://github.com/nilanjanb3/golang)
-    * [04-GoLang FreeCodeCamp Course](https://youtu.be/un6ZyFkqFKo)
+    * [02-Python Advance](https://github.com/nilanjanb3/PCAP-Prep)
+    * [03-Golang Basics](https://github.com/nilanjanb3/golang)
+    * [04-Golang Advance](https://github.com/nilanjanb3/Golang-Advance)
+    * [05-Golang FreeCodeCamp Course](https://youtu.be/un6ZyFkqFKo)
 * 02-Operating Systems
     * 01-Linux
         * [01-Ubuntu](https://github.com/nilanjanb3/linux)
 * 03-Learn to Live in Terminal
     * 01-Scripting
         * [01-Shell Scripting Basics](https://github.com/nilanjanb3/shell-script)
-        * [02-Shell Scripting Advanced]()
+        * [02-Shell Scripting Advanced](https://github.com/nilanjanb3/Bash-Scripting-Advance)
     * 02-Editors 
         * [01-Vim](https://www.freecodecamp.org/news/vim-beginners-guide/)
     * [03-Process Management](/docs/Process_Management.md)
@@ -90,12 +91,12 @@ This repository contains roadmap &amp; reading materials to be a DevOps Engineer
         * [01-Azure Function App Official Docs](https://learn.microsoft.com/en-us/azure/azure-functions/functions-overview?pivots=programming-language-python)
 * 11-Infrastructure Provisioning
     * 01-Terraform
-        * [01-Learn Terraform]()
+        * [01-Learn Terraform](https://github.com/nilanjanb3/Terraform-Associate-Cert-Prep)
         * [02-Terraform Official Docs](https://www.terraform.io/)
-        * [03-Terraform Providers](https://registry.terraform.io/namespaces/hashicorp)
 * 12-Configuration Management
     * 01-Ansible
         * [01-Ansible Basics](https://github.com/nilanjanb3/ansible)
+        * [02-Ansible Advance](https://github.com/nilanjanb3/Ansible-Advance)
     * 02-Chef
         * [01-Chef](https://github.com/nilanjanb3/chef.git)
 * 13-CI/CD Tools
