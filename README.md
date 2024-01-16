@@ -18,7 +18,7 @@ This repository contains roadmap &amp; reading materials to be a DevOps Engineer
     * 01-Linux
         * [01-Ubuntu](https://github.com/nilanjanb3/linux)
         * [02-RHEL]()
-        * [03-Linux Inter](https://www.turing.com/interview-questions/linux)
+        * [03-Linux Interview Questions Turing](https://www.turing.com/interview-questions/linux)
         * [03-Linux Interview Questions I](https://www.geeksforgeeks.org/linux-interview-questions/)
         * [04-Linux Interview Questions II](https://www.interviewbit.com/linux-interview-questions/)
 * 03-Learn to Live in Terminal
