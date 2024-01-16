@@ -127,15 +127,17 @@ This repository contains roadmap &amp; reading materials to be a DevOps Engineer
         * [01-Kubernetes Manifesto]()
         * [02-Kubernetes Interview Questions](https://www.turing.com/interview-questions/kubernetes)
 * 19-Artifacts Management
+    * 01-Jfrog Artifactory
         * []()
 * 20-GitOps
     * 01-ArgoCD
         * [01-GitOps With ArgoCD](https://github.com/nilanjanb3/GitOps-with-ArgoCD)
         * [02-ArgoCD Interview Questions](https://www.fosstechnix.com/gitops-and-argocd-interview-questions/)
 * 21-Service Mesh
+    * 01-Istio
         * []()
 * 22-Cloud Design Patterns
-        * []()
+    * 01-High Availibility (HA)
 
 
         
