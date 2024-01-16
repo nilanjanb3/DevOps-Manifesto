@@ -10,13 +10,15 @@ This repository contains roadmap &amp; reading materials to be a DevOps Engineer
     * [02-Python Advance](https://github.com/nilanjanb3/PCAP-Prep)
     * [03-Golang Basics](https://github.com/nilanjanb3/golang)
     * [04-Golang Advance](https://github.com/nilanjanb3/Golang-Advance)
-    * [05-Python Interview Questions I](https://www.edureka.co/blog/interview-questions/python-interview-questions/)
-    * [06-Python Interview Questions II](https://www.interviewbit.com/python-interview-questions/)
-    * [07-Golang Interview Qustions](https://www.turing.com/interview-questions/golang)
+    * [05-Python Interview Questions I](https://www.turing.com/interview-questions/python)
+    * [06-Python Interview Questions II](https://www.edureka.co/blog/interview-questions/python-interview-questions/)
+    * [07-Python Interview Questions III](https://www.interviewbit.com/python-interview-questions/)
+    * [08-Golang Interview Qustions](https://www.turing.com/interview-questions/golang)
 * 02-Operating Systems
     * 01-Linux
         * [01-Ubuntu](https://github.com/nilanjanb3/linux)
         * [02-RHEL]()
+        * [03-Linux Inter](https://www.turing.com/interview-questions/linux)
         * [03-Linux Interview Questions I](https://www.geeksforgeeks.org/linux-interview-questions/)
         * [04-Linux Interview Questions II](https://www.interviewbit.com/linux-interview-questions/)
 * 03-Learn to Live in Terminal
