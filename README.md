@@ -10,14 +10,20 @@ This repository contains roadmap &amp; reading materials to be a DevOps Engineer
     * [02-Python Advance](https://github.com/nilanjanb3/PCAP-Prep)
     * [03-Golang Basics](https://github.com/nilanjanb3/golang)
     * [04-Golang Advance](https://github.com/nilanjanb3/Golang-Advance)
-    * [05-Golang FreeCodeCamp Course](https://youtu.be/un6ZyFkqFKo)
+    * [05-Python Interview Questions I](https://www.edureka.co/blog/interview-questions/python-interview-questions/)
+    * [06-Python Interview Questions II](https://www.interviewbit.com/python-interview-questions/)
+    * [07-Golang Interview Qustions](https://www.turing.com/interview-questions/golang)
 * 02-Operating Systems
     * 01-Linux
         * [01-Ubuntu](https://github.com/nilanjanb3/linux)
+        * [02-RHEL]()
+        * [03-Linux Interview Questions I](https://www.geeksforgeeks.org/linux-interview-questions/)
+        * [04-Linux Interview Questions II](https://www.interviewbit.com/linux-interview-questions/)
 * 03-Learn to Live in Terminal
     * 01-Scripting
         * [01-Shell Scripting Basics](https://github.com/nilanjanb3/shell-script)
         * [02-Shell Scripting Advanced](https://github.com/nilanjanb3/Bash-Scripting-Advance)
+        * [03-Shell Scripting Interview Questions](https://www.mygreatlearning.com/blog/shell-scripting-interview-questions/)
     * 02-Editors 
         * [01-Vim](https://www.freecodecamp.org/news/vim-beginners-guide/)
     * [03-Process Management](/docs/Process_Management.md)
@@ -26,6 +32,7 @@ This repository contains roadmap &amp; reading materials to be a DevOps Engineer
     * [06-Text Manipulation](/docs/Text_Manipulation.md)
 * 04-Version Control System
     * [01-Git](https://github.com/nilanjanb3/git)
+    * [02-Git Interview Questions](https://www.simplilearn.com/tutorials/git-tutorial/git-interview-questions)
 * 05-VCS Hosting
     * [01-Git & GitHub Basics](https://youtu.be/RGOj5yH7evk)
     * [02-GitHub Docs](https://docs.github.com/en/get-started/quickstart)
@@ -51,10 +58,12 @@ This repository contains roadmap &amp; reading materials to be a DevOps Engineer
         * [03-Firewall explained in 5 mins](https://youtu.be/9GZlVOafYTg)
 * 07-Containers
     * [01-Docker Basics](https://github.com/nilanjanb3/docker)
+    * [02-Docker Interview Questions](https://www.edureka.co/blog/interview-questions/docker-interview-questions/)
 * 08-Cloud Providers
     * [01-Microsoft Azure Docs](https://learn.microsoft.com/en-us/azure/?product=popular)
     * [02-AWS Docs](https://docs.aws.amazon.com/)
     * [03-GCP Docs](https://cloud.google.com/docs)
+    * [04-Top AWS Questions](https://www.turing.com/interview-questions/aws)
 * 09-Networking, Security & Protocols
     * 01-SSH
         * [01-Introduction to SSH](https://www.baeldung.com/cs/ssh-intro)
@@ -93,49 +102,40 @@ This repository contains roadmap &amp; reading materials to be a DevOps Engineer
     * 01-Terraform
         * [01-Learn Terraform](https://github.com/nilanjanb3/Terraform-Associate-Cert-Prep)
         * [02-Terraform Official Docs](https://www.terraform.io/)
+        * [03-Terraform Interview Questions](https://www.turing.com/interview-questions/terraform)
 * 12-Configuration Management
     * 01-Ansible
         * [01-Ansible Basics](https://github.com/nilanjanb3/ansible)
         * [02-Ansible Advance](https://github.com/nilanjanb3/Ansible-Advance)
+        * [03-Ansible Interview Questions](https://intellipaat.com/blog/interview-question/ansible-interview-questions/)
     * 02-Chef
         * [01-Chef](https://github.com/nilanjanb3/chef.git)
 * 13-CI/CD Tools
+    * 01-Jenkins
+        * [01-Jenkins]()
+        * [02-Jenkins Interiew Questions](https://www.turing.com/interview-questions/jenkins)
 * 14-Secrets Management
 * 15-Infrastructure Management
     * 01-Prometheus & Grafana
         * [01-Setting up Cluster Monitoring using Prometheus and Grafana](https://github.com/nilanjanb3/Monitoring-Using-Prometheus-Grafana.git)
 * 16-Application Monitoring
-* 17-Logs Monitoring
+* 17-Logs Management
     * 01-Loki
         * [01-Loki](https://github.com/nilanjanb3/Loki-Logs-Monitoring.git)
+* 18-Container Orchestration
+    * 01-Kubernetes
+        * [01-Kubernetes Manifesto]()
+        * [02-Kubernetes Interview Questions](https://www.turing.com/interview-questions/kubernetes)
+* 19-Artifacts Management
         * []()
+* 20-GitOps
+    * 01-ArgoCD
+        * [01-GitOps With ArgoCD](https://github.com/nilanjanb3/GitOps-with-ArgoCD)
+        * [02-ArgoCD Interview Questions](https://www.fosstechnix.com/gitops-and-argocd-interview-questions/)
+* 21-Service Mesh
         * []()
+* 22-Cloud Design Patterns
         * []()
-        * []()
-        * []()
-        * []()
-        * []()
-        * []()
-        * []()
-        * []()
-        * []()
-        * []()
-        * []()
-        * []()
-        * []()
-        * []()
-        * []()
-        * []()
-        * []()
-        * []()
-        * []()
-        * []()
-        * []()
-        * []()
-        * []()
-        * []()
-        * []()
-        
 
 
         
