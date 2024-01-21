@@ -10,10 +10,10 @@ This repository contains roadmap &amp; reading materials to be a DevOps Engineer
     * [02-Python Advance](https://github.com/nilanjanb3/PCAP-Prep)
     * [03-Golang Basics](https://github.com/nilanjanb3/golang)
     * [04-Golang Advance](https://github.com/nilanjanb3/Golang-Advance)
-    * [05-Python Interview Questions I](https://www.turing.com/interview-questions/python)
+    * [05-Python Interview Questions Turing](https://www.turing.com/interview-questions/python)
     * [06-Python Interview Questions II](https://www.edureka.co/blog/interview-questions/python-interview-questions/)
     * [07-Python Interview Questions III](https://www.interviewbit.com/python-interview-questions/)
-    * [08-Golang Interview Qustions](https://www.turing.com/interview-questions/golang)
+    * [08-Golang Interview Questions Turing](https://www.turing.com/interview-questions/golang)
 * 02-Operating Systems
     * 01-Linux
         * [01-Ubuntu](https://github.com/nilanjanb3/linux)
@@ -60,12 +60,15 @@ This repository contains roadmap &amp; reading materials to be a DevOps Engineer
         * [03-Firewall explained in 5 mins](https://youtu.be/9GZlVOafYTg)
 * 07-Containers
     * [01-Docker Basics](https://github.com/nilanjanb3/docker)
-    * [02-Docker Interview Questions](https://www.edureka.co/blog/interview-questions/docker-interview-questions/)
+    * [02-Docker Interview Questions Turing](https://www.turing.com/interview-questions/docker)
+    * [03-Docker Interview Questions II](https://www.edureka.co/blog/interview-questions/docker-interview-questions/)
 * 08-Cloud Providers
     * [01-Microsoft Azure Docs](https://learn.microsoft.com/en-us/azure/?product=popular)
     * [02-AWS Docs](https://docs.aws.amazon.com/)
     * [03-GCP Docs](https://cloud.google.com/docs)
-    * [04-Top AWS Questions](https://www.turing.com/interview-questions/aws)
+    * [04-Top Cloud Computing Questions Turing](https://www.turing.com/interview-questions/cloud)
+    * [05-Top AWS Questions Turing](https://www.turing.com/interview-questions/aws)
+    * [06-Top Azure Questions Turing](https://www.turing.com/interview-questions/azure)
 * 09-Networking, Security & Protocols
     * 01-SSH
         * [01-Introduction to SSH](https://www.baeldung.com/cs/ssh-intro)
@@ -94,17 +97,20 @@ This repository contains roadmap &amp; reading materials to be a DevOps Engineer
     * 08-TCP/IP Model
         * [01-TCP/IP Model](https://www.geeksforgeeks.org/tcp-ip-in-computer-networking/)
         * [02-OSI Vs TCP/IP](https://www.geeksforgeeks.org/tcp-ip-model/)
+    * 09-Interview Questions
+        * [01-Networking Interview Questions](https://www.guru99.com/networking-interview-questions.html)
 * 10-Serverless
     * 01-AWS Lambda
         * [01-AWS Lambda](https://github.com/nilanjanb3/AWS-Lambda)
         * [02-AWS Lambda Official Docs](https://docs.aws.amazon.com/lambda/latest/dg/getting-started.html)
+        * [03-AWS Lambda Interview Questions](https://www.interviewbit.com/aws-lambda-interview-questions/#aws-lambda)
     * 02-Azure Functions
         * [01-Azure Function App Official Docs](https://learn.microsoft.com/en-us/azure/azure-functions/functions-overview?pivots=programming-language-python)
 * 11-Infrastructure Provisioning
     * 01-Terraform
         * [01-Learn Terraform](https://github.com/nilanjanb3/Terraform-Associate-Cert-Prep)
         * [02-Terraform Official Docs](https://www.terraform.io/)
-        * [03-Terraform Interview Questions](https://www.turing.com/interview-questions/terraform)
+        * [03-Terraform Interview Questions Turing](https://www.turing.com/interview-questions/terraform)
 * 12-Configuration Management
     * 01-Ansible
         * [01-Ansible Basics](https://github.com/nilanjanb3/ansible)
@@ -115,7 +121,10 @@ This repository contains roadmap &amp; reading materials to be a DevOps Engineer
 * 13-CI/CD Tools
     * 01-Jenkins
         * [01-Jenkins]()
-        * [02-Jenkins Interiew Questions](https://www.turing.com/interview-questions/jenkins)
+        * [02-Jenkins Interview Questions Turing](https://www.turing.com/interview-questions/jenkins)
+    * 02-Azure DevOps
+        * [01-Azure DevOps Official Docs](https://learn.microsoft.com/en-us/azure/devops/?view=azure-devops)
+        * [02-Azure DevOps Interview Questions](https://www.edureka.co/blog/interview-questions/top-azure-devops-interview-questions-and-answers/)
 * 14-Secrets Management
 * 15-Infrastructure Management
     * 01-Prometheus & Grafana
@@ -127,7 +136,7 @@ This repository contains roadmap &amp; reading materials to be a DevOps Engineer
 * 18-Container Orchestration
     * 01-Kubernetes
         * [01-Kubernetes Manifesto]()
-        * [02-Kubernetes Interview Questions](https://www.turing.com/interview-questions/kubernetes)
+        * [02-Kubernetes Interview Questions Turing](https://www.turing.com/interview-questions/kubernetes)
 * 19-Artifacts Management
     * 01-Jfrog Artifactory
         * []()
@@ -140,6 +149,10 @@ This repository contains roadmap &amp; reading materials to be a DevOps Engineer
         * []()
 * 22-Cloud Design Patterns
     * 01-High Availibility (HA)
+* 23-Miscellaneous
+    * [01-Top DevOps Interview Questions](https://www.turing.com/interview-questions/devops)
+    * [02-Top SRE Interview Questions](https://www.interviewbit.com/sre-interview-questions/)
+    * [03-Top Remote Developer Interview Questions](https://www.turing.com/interview-questions/remote-developer)
 
 
         
